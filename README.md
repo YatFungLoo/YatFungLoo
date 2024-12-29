@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiya 👋
 
 <!--
 **YatFungLoo/YatFungLoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on technical interview questions that I didn't manage to answer.
+- 🌱 I’m currently learning aglorithms and LLVM.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: Like cold weather.
